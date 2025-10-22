@@ -1,0 +1,4 @@
+// KQL rule to detect high severity GuardDuty findings
+AWSGuardDutyFindings_CL
+| where Severity >= 5
+| project TimeGenerated, Severity, FindingType, Description

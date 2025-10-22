@@ -1,0 +1,4 @@
+{
+  "description": "Sample dashboard layout for Sentinel showing AWS and CrowdStrike alerts",
+  "widgets": []
+}
