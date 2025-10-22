@@ -31,6 +31,9 @@ You are hired as a **SIEM Integration Expert** to:
 - AWS account with GuardDuty and CloudWatch enabled
 - CrowdStrike Falcon API credentials (client ID and secret)
 
+### Architecture Diagram
+<img width="1024" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/0b365b08-4d3a-4491-8531-3c09c1361afd" />
+
 ## 🧠 Key Concepts Explained
 - **SIEM**: Security Information and Event Management platform for centralized log analysis.
 - **Microsoft Sentinel**: Cloud-native SIEM on Azure using Log Analytics and KQL.
