@@ -1,5 +1,5 @@
 
-# 🛡️ Project: Microsoft Sentinel SIEM Integration with AWS & CrowdStrike
+# 🛡️ Microsoft Sentinel SIEM Integration with AWS & CrowdStrike
 
 ## 📘 Scenario
 A fast-growing tech startup is expanding its cloud infrastructure and endpoint security. They use **AWS** for cloud services and **CrowdStrike Falcon** for endpoint detection and response (EDR). To centralize security monitoring and improve threat detection, they want to integrate these data sources into **Microsoft Sentinel**, their chosen SIEM platform.
